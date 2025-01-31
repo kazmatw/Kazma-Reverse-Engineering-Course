@@ -8,12 +8,13 @@ aka 「逆逆！逆向忍者的修行道館！」
 
 課程均為繁體中文，一週六小時，會進行兩週，請各位如果搭配錄影學習，務必動手實作❗️❗️❗️
 
-## Info
+## Resources
 - [課程簡報](https://docs.google.com/presentation/d/1rkl27CA_TxjonKm0oS7LYui6ryPNK7bPPjITfA_HNEs/edit?usp=sharing)
 - [課程錄影]()
 - [CTFd]()
-- 課程大綱
-  - comming soon
+
+## Course Outline
+- comming soon
  
 ## Lab Instructions
 以下練習題的 flag 格式皆為：flag{printable++}
