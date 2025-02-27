@@ -1,5 +1,5 @@
 # Kazma-Reverse-Engineering-Course
-aka 「逆逆！逆向忍者的修行道館！」
+aka 「我獨自逆向：Reverse」
 
 如果你喜歡這堂課的話歡迎點個 ⭐️⭐️⭐️
 
