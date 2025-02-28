@@ -8,6 +8,12 @@ aka 「我獨自逆向：Reverse」
 
 課程均為繁體中文，一週六小時，會進行兩週，請各位如果搭配錄影學習，務必動手實作❗️❗️❗️
 
+所有上課會用到的簡報跟檔案、作業都在這個 REPO 中
+
+使用方式是按下右上角的星星符號後，在終端機輸入以下的指令：
+```bash
+git clone https://github.com/kazmatw/Kazma-Reverse-Engineering-Course.git
+```
 ## Resources
 - [課前須知](https://hackmd.io/@kazmatw/pre-reverse)
 - [課程簡報](https://docs.google.com/presentation/d/1rkl27CA_TxjonKm0oS7LYui6ryPNK7bPPjITfA_HNEs/edit?usp=sharing)
