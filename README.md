@@ -37,17 +37,25 @@ git clone https://github.com/kazmatw/Kazma-Reverse-Engineering-Course.git
 - compiler optimization
 - ASLR
  
-## Lab Instructions
+## File Description
+- demo_file
+  - 上課使用到的示範檔案和原始碼
+- lab-source
+  - lab 的 source code
+- lab-script
+  - lab 的解題腳本   
 - lab-Kazdle
   - 不是只有 binary 才能出逆向題
 - lab-C-test
   - 檢驗指標和取址的基礎知識
-- lab-asm0-3
-  - 考驗基礎的組合語言
+- lab-asm
+  - 四個考驗基礎組合語言的小題目
 - lab-chosen0
   - linux 也可以是逆向工具之一  
 - lab-chosen1
   - 練習使用動態分析工具
+- lab-xor-checker
+  - xor 和 flag checker 的經典考題 
 - lab-Sharingan
   - 透過腳本練習 endian 轉換 
 
