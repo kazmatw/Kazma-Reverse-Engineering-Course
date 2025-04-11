@@ -17,7 +17,7 @@ git clone https://github.com/kazmatw/Kazma-Reverse-Engineering-Course.git
 ## Resources
 - [課前須知](https://hackmd.io/@kazmatw/pre-reverse)
 - [課程簡報](https://docs.google.com/presentation/d/1rkl27CA_TxjonKm0oS7LYui6ryPNK7bPPjITfA_HNEs/edit?usp=sharing)
-- [課程錄影]()
+- [課程錄影](https://youtu.be/PyT1N0kslcU)
 - [CTFd](https://class.nckuctf.org/)
 
 ## Course Outline
